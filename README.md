@@ -2,6 +2,12 @@
 
 _Python Bootcamp for Data week 3: Testing in Python with Pytest_
 
+This week, you will learn the basics of Python testing. From a brief overview of the standard library to using a more modern approach with Pytest, one of the most popular testing libraries in Python. By the end of this week, you should be comfortable working with existing tests, creating new tests, and debugging test failures.
+
+> 🎥 Click the image below to access week 3 of the full course on O'Reilly
+
+[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:50146VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/python-bootcamp-for/50146VIDEOPAIML/50146VIDEOPAIML-c7_s1/ "Testing in Python")
+
 This is week 3 (out of 4) of the Python Bootcamp for Data. The whole course has four weeks:
 
 - [Week 1: Introduction to Python](https://github.com/alfredodeza/introduction-to-python)
